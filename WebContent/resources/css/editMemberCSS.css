@@ -1,0 +1,29 @@
+table, td, th {
+	border: 1px solid #ddd;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 30%;
+}
+
+th, td {
+	padding: 10px;
+}
+
+button.delete {
+	border: none;
+	background: none;
+}
+
+button.add {
+	border: none;
+	background: none;
+}
+
+img {
+	border: none;
+	width: 25px;
+	height: 25px;
+}
